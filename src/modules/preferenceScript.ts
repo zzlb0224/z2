@@ -12,7 +12,7 @@ export async function registerPrefsScripts(_window: Window) {
           dataKey: "title",
           label: getString("prefs-table-title"),
           fixedWidth: true,
-          width: 100,
+          width: 150,
         },
         {
           dataKey: "detail",
